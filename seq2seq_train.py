@@ -108,7 +108,7 @@ num_layers = 2
 embedded_size = 128
 learning_rate = 0.001
 batch_size = 32
-epoch = 100
+epoch = 1500
 
 # Training
 tf.reset_default_graph()
