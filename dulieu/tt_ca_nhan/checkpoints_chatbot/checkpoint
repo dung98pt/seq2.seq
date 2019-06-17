@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/ntd/Downloads/seq2seq-master/dulieu/tt_ca_nhan/checkpoints_chatbot/model_tt_ca_nhan-1338"
+all_model_checkpoint_paths: "/home/ntd/Downloads/seq2seq-master/dulieu/tt_ca_nhan/checkpoints_chatbot/model_tt_ca_nhan-1337"
+all_model_checkpoint_paths: "/home/ntd/Downloads/seq2seq-master/dulieu/tt_ca_nhan/checkpoints_chatbot/model_tt_ca_nhan-1338"
